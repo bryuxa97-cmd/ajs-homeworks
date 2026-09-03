@@ -1,0 +1,13 @@
+{
+  "name": "ajs-esm",
+  "version": "1.0.0",
+  "description": "Homework: native ESM modules in browser",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
